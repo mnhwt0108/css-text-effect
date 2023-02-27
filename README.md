@@ -1,6 +1,6 @@
 # Text effect from [kprverse](https://kprverse.com)
 
-Codepen: [Link](https://codepen.io/mnhwt0108/pen/QWVKZXR"Codepen.io")
+Codepen: [Link](https://codepen.io/mnhwt0108/pen/QWVKZXR)
 
 Sample:
 
